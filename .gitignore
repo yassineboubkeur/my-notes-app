@@ -11,6 +11,10 @@
 # production
 /build
 
+# custom env files
+.env
+notes-backend/.env
+
 # misc
 .DS_Store
 .env.local
